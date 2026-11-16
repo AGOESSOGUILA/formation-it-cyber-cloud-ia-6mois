@@ -112,27 +112,19 @@ Correspondance OSI
 
 Exemples
 
-Application
-
-5, 6 et 7
+Application 5, 6 et 7
 
 HTTP, HTTPS, DNS, DHCP, SSH
 
-Transport
-
-4
+Transport 4
 
 TCP, UDP
 
-Internet
-
-3
+Internet 3
 
 IPv4, IPv6, ICMP
 
-Accès réseau
-
-1 et 2
+Accès réseau 1 et 2
 
 Ethernet, Wi-Fi
 
@@ -164,11 +156,7 @@ Les bits sont transmis sur le support physique.
 
 Protocole
 
-Fonction
-
-Port
-
-HTTP
+Fonction Port HTTP
 
 Communication Web non chiffrée
 
